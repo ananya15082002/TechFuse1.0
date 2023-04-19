@@ -1,0 +1,40 @@
+h5{
+    text-transform: uppercase;
+}
+
+.content{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 50px;
+    
+}
+
+
+
+
+/* TABLE */
+.table-label{
+    color:  rgb(158, 0, 0);
+    margin-bottom: 0;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 110%;
+    
+}
+
+td, th{
+    padding: 4px;
+}
+
+th{
+    text-transform: uppercase;
+}

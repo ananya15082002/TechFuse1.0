@@ -1,0 +1,24 @@
+.logo {
+  width:180px;
+  height: 90px;
+  border-radius: 15%;
+  margin:0 auto;
+}
+
+.link {
+  padding-top: 10px;
+  text-align: center;
+}
+.link a {
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.link a:hover{
+  color: #EC4C4C;
+  transition: ease-in 0.1s;
+}
+
+/* .card{
+  scale: 0.9, 0.8;
+} */
